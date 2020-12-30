@@ -8,7 +8,7 @@ $ pip install procgen # install
 $ python -m procgen.interactive --env-name starpilot
 ```
 
-We have mainly used google colab to create the code used for reinforcement learning, which can be found in Starpilot-PPO.ipynb. This notebook contains the entire code. For a more structural overview one can check out the AI folder. The Starpilot-PPO script should run in colab without issues.
+We have mainly used google colab to create the code used for reinforcement learning, which can be found in Starpilot-PPO.ipynb. This notebook contains the entire code. For a more structural overview one can check out the AI python folder. The Starpilot-PPO script should run in colab without issues.
 
 The Data folder contains all the experemental results where a small note has been added inside each folder to describe its content. All the results has been carried out using the DTU HPC. 
 
