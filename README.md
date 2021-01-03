@@ -5,7 +5,7 @@ By Morten Bjerre (s174397) and Eric Jensen (s174379).
 
 In this project we have used reinforcement learning and PPO to train an AI to play Starpilot. It is possible to try the game out yourself with the following commands:
 ```
-$ pip install procgen # install
+$ pip install procgen 
 $ python -m procgen.interactive --env-name starpilot
 ```
 
